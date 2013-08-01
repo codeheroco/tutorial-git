@@ -17,3 +17,5 @@ Luego para ir a un capítulo en específico utilizamos el comando:
 De esta manera estamos cambiando al final del capítulo con toda la "solución"
 o texto del mismo.
 
+Recuerden que para la explicación completa de este curso se pueden dirigir a
+[codehero.co](http://codehero.co) o directamente a [codehero.co/series/git-desde-cero](http://codehero.co/series/git-desde-cero/)
