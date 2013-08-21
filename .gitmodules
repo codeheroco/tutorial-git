@@ -1,0 +1,3 @@
+[submodule "chef-submodule"]
+	path = chef-submodule
+	url = https://github.com/codeheroco/chef.git
